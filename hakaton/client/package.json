@@ -1,0 +1,59 @@
+{
+  "name": "project_syncfusion_dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@gsap/react": "^2.1.0",
+    "@syncfusion/ej2": "^19.4.48",
+    "@syncfusion/ej2-react-buttons": "^25.1.35",
+    "@syncfusion/ej2-react-calendars": "^19.4.48",
+    "@syncfusion/ej2-react-charts": "^19.4.50",
+    "@syncfusion/ej2-react-dropdowns": "^19.4.52",
+    "@syncfusion/ej2-react-grids": "^19.4.50",
+    "@syncfusion/ej2-react-inputs": "^19.4.52",
+    "@syncfusion/ej2-react-kanban": "^19.4.48",
+    "@syncfusion/ej2-react-popups": "^19.4.52",
+    "@syncfusion/ej2-react-richtexteditor": "^19.4.50",
+    "@syncfusion/ej2-react-schedule": "^19.4.50",
+    "chart.js": "^4.4.2",
+    "gsap": "^3.12.5",
+    "js-cookie": "^3.0.5",
+    "jwt-decode": "^4.0.0",
+    "lottie-react": "^2.4.0",
+    "react": "^17.0.2",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-big-calendar": "^1.11.2",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "universal-cookie": "^7.1.4"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.19"
+  }
+}
